@@ -1,9 +1,5 @@
 # Upamoja - Social Network
 
-## Website Live Preview
-Go to this link: <br>
-yet to update
-
 ## Summary
 I get curious after using facebook how this works. Then I start learning web programming. Within 4 month develop this website and host it with the domain name Upamoja. Sorry to say, now this project is not live :(
 
