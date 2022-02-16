@@ -1,7 +1,7 @@
 # Upamoja - Social Network
 
 ## Summary
-I get curious after using facebook how this works. Then I start learning web programming. Within 4 month develop this website and host it with the domain name Upamoja. 
+I get curious after using facebook how this works. Then I start learning web programming. Within one year I develop this website. 
 
 ## Platform Used
 ### Front-End
